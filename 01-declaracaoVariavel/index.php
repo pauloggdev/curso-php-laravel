@@ -16,7 +16,7 @@ $funcionario2 = array(
 
 
 if($is_valid){
-    echo "verdadeiro";
+    echo "verdadeiro String";
 }else{
     echo "Falso";
 }
